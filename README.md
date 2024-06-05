@@ -1,5 +1,8 @@
 ; Application de Gestion des Notes dévloppé par Franchini Jade 
 
+; Le projet est en format zip car le commit des fichiers java ne fonctionnaient pas. 
+; Il suufit donc de télécharger le zip et de le décompresser !
+
 ; ============Architecture du projet============
 
 ; L'architecture se compose comme suit, dans le dossier GestionNotes/src/Class:
